@@ -1,0 +1,50 @@
+
+	
+/* Full-width inputs */
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
+
+#update{
+	border-radius:15px;
+	line-height:60px;
+	background-color:;
+	height:700px;
+	width:300px;
+	float:left;
+	font-size:22px;
+	text-align:center;
+	color:white;
+}
+#insert{
+	border-radius:25px;
+	margin-left:15px;
+	height:700px;
+	width:300px;
+	float:left;
+}
+#delete{
+	border-radius:35px;
+	margin-left:15px;
+	height:700px;
+	width:300px;
+	float:left;
+}
+#top{
+
+	height:1920px;
+	width:1080px;
+
+}

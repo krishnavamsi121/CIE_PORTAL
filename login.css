@@ -1,0 +1,26 @@
+
+	
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.imgcontainer
+{
+	text-align:center;
+	font-size:32px;
+}
+
+
+/* Center the avatar image inside this container */
+
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
